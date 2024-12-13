@@ -17,16 +17,26 @@ Instaklon is a simple Instagram clone.
 
 1. Clone the repository:
 
-git clone https://github.com/DennisFlink/instaklon.git
+   ```sh
+   git clone https://github.com/DennisFlink/instaklon.git
+   ```
 
 2. Navigate to the project directory:
 
-cd instaklon
+   ```sh
+   cd instaklon
+   ```
 
 3. Install dependencies:
 
-npm install
+   ```sh
+   npm install
+   ```
 
 ## Usage
 
 1. Start the app:
+
+```sh
+   npx expo start -c
+```
